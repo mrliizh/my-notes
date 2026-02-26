@@ -1,4 +1,4 @@
-# Ubuntu 安装 CC Switch
+# CC Switch for Ubuntu 安装指南
 
 ##### 参考链接
 
