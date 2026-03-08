@@ -1,4 +1,4 @@
-# pprof
+# pprof使用简述
 
 详细内容查看[go-pprof-practice](https://github.com/wolfogre/go-pprof-practice?tab=readme-ov-file)  
 
